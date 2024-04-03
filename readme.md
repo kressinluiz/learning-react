@@ -5,5 +5,6 @@ nextjs.org/learn/react-foundations
 https://nextjs.org/learn/dashboard-app/getting-started
 
 # Coming soon
-1. https://react.dev/learn
-2. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+1. https://nextjs.org/docs
+2. https://react.dev/learn
+3. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
